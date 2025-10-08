@@ -2,5 +2,5 @@
 share: true
 ---
 Hola
-[[Bienvenido|Bienvenido]]
+([[Bienvenido|Bienvenido]])
 
